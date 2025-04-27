@@ -1,0 +1,64 @@
+body {    
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+  }
+
+  div{
+    max-width: 600px;
+    border: solid grey;
+    /*margin: 1px auto;*/
+    border-width: 1px;
+    padding: 20px 200px 30px 200px;
+  }
+
+  #title {
+    font-size: 37px;    
+    text-align: center;
+    margin-bottom: -5px;
+    letter-spacing: 2px;
+  }
+
+  #sub{
+    color: #006EB6;
+    text-align: center;
+    border-bottom: solid rgb(229, 220, 220) 1px; 
+    font-size: 15px;
+    letter-spacing: 2.5px;
+  }
+
+  #p1{
+    margin-left: 5px;
+  }
+
+  #p2{
+    margin-left: 5px;
+  }
+  nav {
+    background-color: steelblue;
+    padding: 10px;
+  }
+  
+  img {
+    height: 70px;
+    max-width: 120px;
+    padding-left: 225px;
+    background-attachment: fixed;
+    background-size: cover;   
+  }
+  
+  p {
+    padding: 5px;
+    
+  }
+  ol{
+    margin-left: 20px;
+    font-size: 18px;
+    line-height: 1.5;
+  }
+
+  li{
+    bottom: auto;
+  }
+  footer {
+    background-color: white;    
+  }
